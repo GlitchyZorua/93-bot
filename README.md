@@ -29,8 +29,7 @@ NO.
 I SAID NO.
 
 # How do i set up?
-1. First off, you need to go to www.windows93.net/trollbox
- I. (Be sure to enter a nick name!)
+1. First off, you need to go to www.windows93.net/trollbox (Be sure to enter a nick name!)
 2. Right click anywhere
 3. Click on "Inspect Element"
 4. Goto the tab that should say "console"
