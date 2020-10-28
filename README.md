@@ -48,6 +48,8 @@ Honestly, i am not sure. Since my file system is unorginized. This Silverplate.t
 
 Since i've formatted my pc, i will not be adding new versions in this code (unless if i do find any)
 
+# RPG 93Bot is left unfinshed. and will never be fished
+Yup. We decided to annonce that the RPG commands won't be finished, as the bot is now discontinued.
 
 If you have ANY questions, please DM Jacobw#8117 on discord.
 
