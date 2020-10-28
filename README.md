@@ -38,13 +38,15 @@ I SAID NO.
 7. Copy it.
 8. Paste it in the console.
 9. Hit enter.
-10. Then your done.
+10. Then you're done.
 
 # Can I use this?
 Yes, You are free to take any code, since that i don't care if anyone uses it. Feel free to fork it. Do what ever the fuck you want.
 
 # Is this the latest version of 93!Bot?
 Honestly, i am not sure. Since my file system is unorginized. This Silverplate.txt file is from Dragsun, from discord. Maybe when i find it, i will be sure to update y'all.
+
+Since i've formatted my pc, i will not be adding new versions in this code (unless if i do find any)
 
 
 If you have ANY questions, please DM Jacobw#8117 on discord.
