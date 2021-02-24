@@ -23,7 +23,7 @@ Yeah yeah yeah, i get it. you like his better then mine.
 No.
 
 # How do i set up?
-1. First off, you need to go to www.windows93.net/trollbox (Be sure to enter a nick name!)
+1. First off, you need to go to www.windows93.net/trollbox (Be sure to enter a nickname!)
 2. Right click anywhere
 3. Click on "Inspect Element"
 4. Goto the tab that should say "console"
@@ -43,7 +43,10 @@ Honestly, i am not sure. Since my file system is unorginized. This Silverplate.t
 Since i've formatted my pc, i will not be adding new versions in this code (unless if i do find any)
 
 # RPG 93Bot is left unfinshed. and will never be fished
-Yup. We decided to annonce that the RPG commands won't be finished, as the bot is now discontinued.
+The RPG commands won't be finished, as the bot is now discontinued.
 
 If you have ANY questions, please DM Jacobw#8117 on discord.
 
+# Licensing
+
+Do whatever you want with it. ANYTHING.
