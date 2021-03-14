@@ -27,18 +27,18 @@ No.
 2. Right click anywhere
 3. Click on "Inspect Element"
 4. Goto the tab that should say "console"
-5. Open the txt file.
-6. then Select all on the txt file
+5. Open the js file.
+6. then Select all on the js file
 7. Copy it.
 8. Paste it in the console.
 9. Hit enter.
 10. Then you're done.
 
 # Can I use this?
-Yes, You are free to take any code, since that i don't care if anyone uses it. Feel free to fork it. Do what ever you want.
+Yes, You are free to take any code under MIT License.
 
 # Is this the latest version of 93!Bot?
-Honestly, i am not sure. Since my file system is unorginized. This Silverplate.txt file is from Dragsun, from discord. Maybe when i find it, i will be sure to update y'all.
+Honestly, i am not sure. Since my file system is unorginized. This Silverplate.js file is from Dragsun, from discord. Maybe when i find it, i will be sure to update y'all.
 
 Since i've formatted my pc, i will not be adding new versions in this code (unless if i do find any)
 
